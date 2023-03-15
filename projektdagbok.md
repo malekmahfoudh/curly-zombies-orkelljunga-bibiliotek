@@ -31,5 +31,8 @@ dwadwad
 - Vi började skriva en Definition of Done på vår ursprungliga Sprint backlog. Vi insåg att det blev väldigt mycket krav eftersom nästan alla User Stories ingick i första sprinten. Efter detta kom vi fram till att vi förmodligen har en del epic User stories och beslutade att försöka bryta ner dessa ytterligare. Får vi detta klart så innebär det att Definition of Done kan bli mer konkret och rimlig. Inkrementen blir tydligare och vi kan med nästkommande sprintar erbjuda fler. 
 
 
+- När vi hade sorterat och estimerat allt i Sprint Backloggen så behövde vi omprioritera. Vi la till en egenskap som heter "Priority" där man kan välja mellan, "Must" "Should" och "Could". Här prioriterar vi nu utefter vad som verkligen krävs för vårat "MVP" eller Inkrement. Det som har MUST kommer först, därefter SHOULD, sen COULD. 
+Nu blev vår lista ojämn och vi fick flytta runt User Stories återigen för att de skulle hamna i rätt prio-ordning. 
+
 
 
