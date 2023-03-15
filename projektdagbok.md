@@ -44,4 +44,4 @@ Nu blev vår lista ojämn och vi fick flytta runt User Stories återigen för at
 - Definition of Done var klurigt. Vi undersökte hur noggrannt vi behövde specifiera kraven. Vi gick inte för djupt in på tekniska specifikationer, men såg ändå till att det som verkligen behövs var specifierat. Varje "feature" presenterade vi i en lista där vi skrev kraven för just den. Möts inte allt i "feature"-kravet så presenterar vi inte denna vid Sprint Reviewen och den hamnar i Product Backlog.
 
 
-
+- Vi funderade på om vi skulle göra alla User Stories till Issues. Eftersom vi inte påbörjat något arbete väntade vi med detta. När vi "godkänner" Sprint Backloggen tänker vi att man gör Issues av alla, tar varsin issue och assignar den till sig själv. På så sätt håller vi issue # relativt i "ordning".  
