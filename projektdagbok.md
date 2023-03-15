@@ -10,12 +10,18 @@
 kdwoakdkwoaodw
 
 ## Sprint Goal
-dwadokwaokdwa
+Målet är att skapa ett robust och skalbart system som ska ha ett unikt gränssnitt där vi hanterar produkter, lånekort, sökfunktioner och integrerar bibliotekets scannrar.
 
 ## Definition of Done
-dwadwad
+Databasen är klar när vi har skapat egna databaser (produktdatabas, användardatabas) som bygger på biblioteteks tidigare databaser. Biblioteken ska ha tillgång till databaserna och kunna justera innehållet genom att . 
 
+Sökfunktionerna är klara när användare generar resultat på alla egenskaperna från produktdatabasen oberoende av Versaler/Gemener. 
 
+Scannrar - 
+
+Gränssnitt - 
+
+Lånekort - 
 
 
 ## Händelser 
