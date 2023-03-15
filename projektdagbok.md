@@ -13,15 +13,15 @@ kdwoakdkwoaodw
 Målet är att skapa ett robust och skalbart system som ska ha ett unikt gränssnitt där vi hanterar produkter, lånekort, sökfunktioner och integrerar bibliotekets scannrar.
 
 ## Definition of Done
-Databasen är klar när vi har skapat egna databaser (produktdatabas, användardatabas) som bygger på biblioteteks tidigare databaser. Biblioteken ska ha tillgång till databaserna och kunna justera innehållet genom att . 
+Databasen är klar när vi har skapat egna databaser (produktdatabas, användardatabas) som bygger på bibliotekens tidigare databaser. Biblioteken ska ha tillgång till databaserna och kunna justera innehållet genom att lägga till, ändra och ta bort produkter samt användare. 
 
-Sökfunktionerna är klara när användare generar resultat på alla egenskaperna från produktdatabasen oberoende av Versaler/Gemener. 
+Sökfunktionerna är klara när användare & biblioteken kan genera sökresultat på alla egenskaperna från produktdatabasen samt att biblioteken ska kunna generera sökresultat på alla egenskaper från användardatabasen, oberoende av Versaler/Gemener.  
 
-Scannrar - 
+Scannrarna är klara när de kan läsa av lånekort samt produkter och returnera värdet till vårat system. 
 
-Gränssnitt - 
+Gränssnitten är klara när vi har två unika gränssnitt, ett för biblioteken samt ett för användarna. Alla administrativa funktioner ( lägga till, ändra och ta bort ) ska presenteras för användaren / biblioteken. 
 
-Lånekort - 
+Lånekort är klara när vi kan registrera en användare till kortnumret som blir kopplat till en profil. Kortet ska returnera profilens id när det scannas för att kunna hantera profilens uppgifter samt produkter.
 
 
 ## Händelser 
