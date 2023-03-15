@@ -9,6 +9,7 @@
 - Vi har 3 utvecklare.
 - En arbetsdag är 3 Poäng - (3 utv x 1 Poäng).
 - En arbetsvecka är 15 Poäng.
+- Prioriteringen är enligt Listvyn - fallande ordning.
  
 ## Sprint Goal
 Målet är att skapa ett robust och skalbart system som ska ha ett unikt gränssnitt där vi hanterar produkter, lånekort, sökfunktioner och integrerar bibliotekets scannrar.
