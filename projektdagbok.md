@@ -28,3 +28,8 @@ dwadwad
 
 - Vi gjorde första Sprint Backloggen. De flesta av våra User Stories kom med i första sprinten. Vi estimerade tiden på varje story till högst 2 arbetsdagar / poäng. När vi räknade ihop alla arbetsdagar (2 veckor) så var nästan alla User Stories klara. Det är svårt att estimera exakt hur lång tid varje moment kommer ta, men vi har gjort ett estimat för att ändå gå igenom varje del i Scrum ramverket. I detta skede kände vi att hela projektet nog troligtvis inte kommer kunna skapas inom 2-3 veckors arbete. Vi tänker nu om och lite djupare inför varje User story och ser ifall de är större än vi tänkt oss och om de kan brytas ner ytterligare.
 
+- Vi började skriva en Definition of Done på vår ursprungliga Sprint backlog. Vi insåg att det blev väldigt mycket krav eftersom nästan alla User Stories ingick i första sprinten. Efter detta kom vi fram till att vi förmodligen har en del epic User stories och beslutade att försöka bryta ner dessa ytterligare. Får vi detta klart så innebär det att Definition of Done kan bli mer konkret och rimlig. Inkrementen blir tydligare och vi kan med nästkommande sprintar erbjuda fler. 
+
+
+
+
