@@ -3,9 +3,9 @@
 ## Projektegenskaper
 - En sprint är 2 veckor.
 - Vi har 3 utvecklare.
-- En arbetsdag är 8h arbetstid.
-- En arbetsvecka är 5 arbetsdagar.
-- 
+- En arbetsdag är 3 Poäng - (3 utv x 1 Poäng).
+- En arbetsvecka är 15 Poäng.
+ 
 ## Project Goal
 kdwoakdkwoaodw
 
