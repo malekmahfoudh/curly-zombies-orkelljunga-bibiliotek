@@ -40,5 +40,7 @@ Lånekort är klara när vi kan registrera en användare till kortnumret som bli
 - När vi hade sorterat och estimerat allt i Sprint Backloggen så behövde vi omprioritera. Vi la till en egenskap som heter "Priority" där man kan välja mellan, "Must" "Should" och "Could". Här prioriterar vi nu utefter vad som verkligen krävs för vårat "MVP" eller Inkrement. Det som har MUST kommer först, därefter SHOULD, sen COULD. 
 Nu blev vår lista ojämn och vi fick flytta runt User Stories återigen för att de skulle hamna i rätt prio-ordning. 
 
+- Definition of Done var klurigt. Vi undersökte hur noggrannt vi behövde specifiera kraven. Vi gick inte för djupt in på tekniska specifikationer, men såg ändå till att det som verkligen behövs var specifierat. Varje "feature" presenterade vi i en lista där vi skrev kraven för just den. Möts inte allt i "feature"-kravet så presenterar vi inte denna vid Sprint Reviewen och den hamnar i Product Backlog.
+
 
 
