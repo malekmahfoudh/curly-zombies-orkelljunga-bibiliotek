@@ -1,4 +1,8 @@
 # Produktdagbok
+## Gruppmedlemmar
+- Berat Ukiqi
+- Lisa Ryd-Carlsson
+- Malek Mahfoudh
 
 ## Projektegenskaper
 - En sprint är 2 veckor.
@@ -6,9 +10,6 @@
 - En arbetsdag är 3 Poäng - (3 utv x 1 Poäng).
 - En arbetsvecka är 15 Poäng.
  
-## Project Goal
-kdwoakdkwoaodw
-
 ## Sprint Goal
 Målet är att skapa ett robust och skalbart system som ska ha ett unikt gränssnitt där vi hanterar produkter, lånekort, sökfunktioner och integrerar bibliotekets scannrar.
 
